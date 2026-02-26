@@ -1,1 +1,2 @@
 Connecting Azure to Python
+in this i have successfully connected the azure system using python jupyter their libraries like pandas , pyodbc obdc driver which is used to connect the databases , i created insisghts using python codes and later exported in excel file.
